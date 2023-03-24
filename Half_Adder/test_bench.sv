@@ -16,6 +16,6 @@ initial begin
     #10 a=0; b=1;
     #10 a=0; b=0;    
 
-    #200 $finish;
+    #20 $finish;
 end
 endmodule
